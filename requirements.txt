@@ -134,7 +134,7 @@ pyhanko-certvalidator==0.19.5
 PyJWT==2.5.0
 pylev==1.4.0
 pylint==2.15.3
-pymdown-extensions==9.5
+pymdown-extensions==10.0
 pyparsing==3.0.9
 PyPDF3==1.0.6
 pyprof2calltree==1.4.5
