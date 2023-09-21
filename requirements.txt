@@ -49,7 +49,7 @@ Flask-Login==0.6.2
 Flask-Script==2.0.6
 Flask-Testing==0.8.1
 Flask-WTF==1.0.1
-future==0.18.2
+future==0.18.3
 geographiclib==1.52
 geopy==2.2.0
 gevent==21.12.0
