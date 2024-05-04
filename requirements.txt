@@ -183,7 +183,7 @@ tinycss2==1.1.1
 toml==0.10.2
 tomli==2.0.1
 tomlkit==0.11.4
-tqdm==4.64.1
+tqdm==4.66.3
 traitlets==5.4.0
 trio==0.21.0
 trio-websocket==0.9.2
