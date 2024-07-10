@@ -205,6 +205,6 @@ wrapt==1.14.1
 wsproto==1.2.0
 WTForms==3.0.1
 xhtml2pdf==0.2.8
-zipp==3.8.1
+zipp==3.19.1
 zope.event==4.5.0
 zope.interface==5.4.0
