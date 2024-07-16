@@ -208,3 +208,4 @@ xhtml2pdf==0.2.8
 zipp==3.8.1
 zope.event==4.5.0
 zope.interface==5.4.0
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
