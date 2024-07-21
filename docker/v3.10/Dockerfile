@@ -1,4 +1,4 @@
-FROM python:3.10.7-slim-bullseye
+FROM python:3.13.0b3-slim-bullseye
 
 # Set timezone
 ENV TZ=Europe/Paris
