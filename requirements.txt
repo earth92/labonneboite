@@ -52,7 +52,7 @@ Flask-WTF==1.0.1
 future==0.18.2
 geographiclib==1.52
 geopy==2.2.0
-gevent==21.12.0
+gevent==24.10.1
 geventhttpclient==2.0.2
 ghp-import==2.1.0
 google-api-core==2.10.1
